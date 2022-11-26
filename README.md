@@ -1,4 +1,4 @@
-# Hi
+# Hi !
 #### My name is Tim (but you can call me as you prefer, there are many options: Gennady, Ilya, Sergey, Vladimir, Innokenty, Arkady, Clown, Monkey and others)
 #### And... I'm a programmer! yeah
 #### If you need cool, working code😏 don't ask me😐...
